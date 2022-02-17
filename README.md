@@ -31,4 +31,4 @@ There are 4 distinguished sections of the analysis:
 Sophie Giraudo
 
 ## License
-This project is licensed under the permissive MIT license. Please 
+This project is licensed under the permissive MIT license.
