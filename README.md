@@ -28,7 +28,7 @@ There are 4 distinguished sections of the analysis:
   - Use our model to make predictions about the reliability of the system
 
 ## Authors and acknowledgment
-Sophie Giraudo
+Sophie Giraudo developed the Python version of code in 2020. It was originally developed by Dr. Ross Marriott in 2017. Edits were made to the presentation on this GitHub by Michael Nefiodovas in 2021. All developments were funded by Melinda Hodkiewicz's BHP Fellowship. 
 
 ## License
 This project is licensed under the permissive MIT license.
